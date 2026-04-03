@@ -9,6 +9,7 @@ usando MySQL, Python y Power BI.
 - Power BI — visualización e insights
 
 ## Dashboard
+![Dashboard](dashboard_preview.png) 
 
 ## Insights principales
 - Asia es **3.42% más barata** que el promedio mundial en gasolina
