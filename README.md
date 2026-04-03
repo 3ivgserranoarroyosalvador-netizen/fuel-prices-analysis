@@ -18,9 +18,9 @@ usando MySQL, Python y Power BI.
 - Medio Oriente mantiene los precios más bajos por subsidios activos
 
 ## Estructura del proyecto
-- `Proyecto_Github.sql — 15 queries de análisis en MySQL
-- `Proyecto_Github - Python.py — extracción de datos con Python
-- `dashboard_preview.png — vista del dashboard en Power BI
+- Proyecto_Github.sql — 15 queries de análisis en MySQL
+- Proyecto_Github - Python.py — extracción de datos con Python
+- dashboard_preview.png — vista del dashboard en Power BI
 
 ## Fuente de datos
 Dataset: [World vs Asia Fuel Prices](https://www.kaggle.com) · Kaggle
